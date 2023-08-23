@@ -1,0 +1,7 @@
+Rencana Belajar FrontEnd Pardo
+- Belajar JavaScript
+  * ES6
+  * Framework Javascript
+- Belajar Node.js
+- Belajar Tailwind
+- Belajar WebPack
